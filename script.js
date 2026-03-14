@@ -13,9 +13,9 @@ document.addEventListener("DOMContentLoaded", function () {
   };
   // 定義原始的圖片 URL
   let imageUrls = [
-    "https://static.wixstatic.com/media/6592d5_98b12e07b369433fa30995f2404646f4~mv2.jpg",
-    "https://www.gravatar.com/avatar/444fd32acd03853c88f4bf8558b8699b914e69709c26f33e04ec9e5b1b2e533c?s=512",
-    "https://cdn.discordapp.com/attachments/1129301151939047545/1350886864004976712/71398.jpg?ex=67ead3ee&is=67e9826e&hm=d6809ceb0c26a256e049a1b2c08c55e17f87fbece1bbbd108f2b75c3e5009eb3&"
+    "./images/small-1.jpg",
+    "./images/small-2.jpg",
+    "./images/small-3.jpg"
   ];
   // 取得 #courses 和 #skills
   const coursesSection = document.getElementById("courses");

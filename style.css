@@ -1,6 +1,6 @@
 /* 設定背景圖片 */
 body {
-  background-image: url("https://media.discordapp.net/attachments/1129301151939047545/1350881724678148149/20230106_172942.jpg?ex=67eacf25&is=67e97da5&hm=7dfe583c4395fa862a8f2a0de670eda3620d4e70e6d5c793996f75f700ea4a17&=&format=webp&width=1288&height=725");
+  background-image: url("./images/background.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
